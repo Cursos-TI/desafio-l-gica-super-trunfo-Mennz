@@ -144,7 +144,7 @@ int main() {
         
                 }
 
-                menu_principal: // Label para voltar ao menu principal
+                menu_principal: //voltar ao menu principal
                 break;
 
             case 2:
